@@ -11,7 +11,7 @@ I use zsh (with oh-my-zsh) & the fish (with oh-my-fish) terminal with very simil
 
 ## 🌐 Socials / How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chcknlegwil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chcknlegwill) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chcknlegwill) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chcknlegwill) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/chcknlegwill) [![Email Badge](https://img.shields.io/badge/Outlook-red?style=flat&logoColor=FFFFFF&color=0078d4)](mailto:test@willn70@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chcknlegwil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chcknlegwill) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/chcknlegwill) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21628572/chcknlegwill) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/chcknlegwill) [![Email Badge](https://img.shields.io/badge/Outlook-red?style=flat&logoColor=FFFFFF&color=0078d4)](mailto:test@willn70@outlook.com)
 
 
 # 🌱 I'm currently learning
