@@ -19,7 +19,7 @@ I use zsh (with oh-my-zsh) & the fish (with oh-my-fish) terminal with very simil
 - Java
 - Rust
 - C
-- C++
+- Go
 
 
 # 💻 Tech Stack
