@@ -1,9 +1,9 @@
 # 🌌 About Me :
 
-I'm currently working on a personal website using svelte (other projects in-mind just haven't started working on anything yet)
-Right now I am a javascript enjoyer & enjoy making websites as well as deploying them to the internet.
-I spend most of my time in the terminal using Ubuntu on WSL-2 or on bare-metal although not very often as everyone still uses windows for many things (office 365 is just too nice)
-I use zsh (with oh-my-zsh) & the fish (with oh-my-fish) terminal with very similar themes (dst for zsh & jacaetevha for fish).
+I'm currently working on a personal website using svelte (originaly Express & Node js) which I am enjoying lot's at the moment.
+Currently studying computer science & loving it.
+I use Arch (btw) with the zsh shell with oh-my-zsh which is one of the best cli quality-of-life improvements that I don't know how people lived without.
+Other than my pretty basic Arch OS I do dual-boot Windows and Arch so I can play some games every now and then.
 
 ## 🔭 Current Projects
 
