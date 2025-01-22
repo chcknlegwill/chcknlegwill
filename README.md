@@ -8,6 +8,7 @@ Other than my pretty basic Arch OS I do dual-boot Windows and Arch so I can play
 ## 🔭 Current Projects
 
 - Personal site
+- CLI tool
 
 ## 🌐 Socials / How to reach me
 
