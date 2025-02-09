@@ -1,4 +1,4 @@
-# 🌌 About Me :
+# About Me :
 
 I'm currently working on a personal website using svelte (originaly Express & Node js) which I am enjoying lot's at the moment.
 Currently studying computer science & loving it.
@@ -21,6 +21,7 @@ Other than my pretty basic Arch OS I do dual-boot Windows and Arch so I can play
 - Rust
 - C
 - Go
+- Haskell
 
 
 # 💻 Tech Stack
